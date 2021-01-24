@@ -12,6 +12,7 @@ The goal of this project is to help Maria remove the reading and math grades for
     Before
     
     ![district_summary_df_before.png](Resources/district_summary_df_before.png)
+    
     After
     
     ![district_summary_df_after.png](Resources/district_summary_df_after.png)
@@ -22,6 +23,7 @@ The goal of this project is to help Maria remove the reading and math grades for
     Before
     
     ![School_Summary_before.png](Resources/School_Summary_before.png)
+    
     After
     
     ![School_Summary_after.png](Resources/School_Summary_after.png)
