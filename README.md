@@ -8,13 +8,15 @@ The goal of this project is to help Maria remove the reading and math grades for
 
 - How is the district summary affected?
     - As can be seen in the following tables, the average math score, percentage of passing math, percentage of passing reading, and the overall passing percentage all dropped after removing the reading and math grades for Thomas High School ninth graders.
-    
+    Before
     ![district_summary_df_before.png](Resources/district_summary_df_before.png)
+    After
     ![district_summary_df_after.png](Resources/district_summary_df_after.png)
 - How is the school summary affected?
     - After removing the reading and math grades for Thomas High School ninth graders, the percentage of passing math, percentage of passing reading, and the overall passing percentage all slightly dropped. However, the math and reading average scores slightly increased.
-    
+    Before
     ![School_Summary_before.png](Resources/School_Summary_before.png)
+    After
     ![School_Summary_after.png](Resources/School_Summary_after.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
